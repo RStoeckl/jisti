@@ -1,0 +1,917 @@
+./app/build.gradle:        applicationId "ch.cheap_bit.fut"
+./app/build/outputs/logs/manifest-merger-debug-report.txt:activity#ch.cheap_bit.fut.Navigation
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:package ch.cheap_bit.fut;
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionBar_background ch.cheap_bit.fut:background}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionBar_backgroundSplit ch.cheap_bit.fut:backgroundSplit}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionBar_backgroundStacked ch.cheap_bit.fut:backgroundStacked}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionBar_contentInsetEnd ch.cheap_bit.fut:contentInsetEnd}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionBar_contentInsetLeft ch.cheap_bit.fut:contentInsetLeft}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionBar_contentInsetRight ch.cheap_bit.fut:contentInsetRight}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionBar_contentInsetStart ch.cheap_bit.fut:contentInsetStart}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionBar_customNavigationLayout ch.cheap_bit.fut:customNavigationLayout}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionBar_displayOptions ch.cheap_bit.fut:displayOptions}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionBar_divider ch.cheap_bit.fut:divider}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionBar_elevation ch.cheap_bit.fut:elevation}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionBar_height ch.cheap_bit.fut:height}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionBar_hideOnContentScroll ch.cheap_bit.fut:hideOnContentScroll}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionBar_homeAsUpIndicator ch.cheap_bit.fut:homeAsUpIndicator}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionBar_homeLayout ch.cheap_bit.fut:homeLayout}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionBar_icon ch.cheap_bit.fut:icon}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle ch.cheap_bit.fut:indeterminateProgressStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionBar_itemPadding ch.cheap_bit.fut:itemPadding}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionBar_logo ch.cheap_bit.fut:logo}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionBar_navigationMode ch.cheap_bit.fut:navigationMode}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionBar_popupTheme ch.cheap_bit.fut:popupTheme}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionBar_progressBarPadding ch.cheap_bit.fut:progressBarPadding}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionBar_progressBarStyle ch.cheap_bit.fut:progressBarStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionBar_subtitle ch.cheap_bit.fut:subtitle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionBar_subtitleTextStyle ch.cheap_bit.fut:subtitleTextStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionBar_title ch.cheap_bit.fut:title}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionBar_titleTextStyle ch.cheap_bit.fut:titleTextStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#background}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:background
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#backgroundSplit}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:backgroundSplit
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#backgroundStacked}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:backgroundStacked
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#contentInsetEnd}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:contentInsetEnd
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#contentInsetLeft}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:contentInsetLeft
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#contentInsetRight}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:contentInsetRight
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#contentInsetStart}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:contentInsetStart
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#customNavigationLayout}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:customNavigationLayout
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#displayOptions}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:displayOptions
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#divider}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:divider
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#elevation}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:elevation
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#height}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:height
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#hideOnContentScroll}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:hideOnContentScroll
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#homeAsUpIndicator}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:homeAsUpIndicator
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#homeLayout}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:homeLayout
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#icon}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:icon
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#indeterminateProgressStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:indeterminateProgressStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#itemPadding}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:itemPadding
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#logo}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:logo
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#navigationMode}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:navigationMode
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#popupTheme}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:popupTheme
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#progressBarPadding}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:progressBarPadding
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#progressBarStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:progressBarStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#subtitle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:subtitle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#subtitleTextStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:subtitleTextStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#title}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:title
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#titleTextStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:titleTextStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionMode_background ch.cheap_bit.fut:background}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionMode_backgroundSplit ch.cheap_bit.fut:backgroundSplit}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionMode_closeItemLayout ch.cheap_bit.fut:closeItemLayout}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionMode_height ch.cheap_bit.fut:height}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionMode_subtitleTextStyle ch.cheap_bit.fut:subtitleTextStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActionMode_titleTextStyle ch.cheap_bit.fut:titleTextStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#background}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:background
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#backgroundSplit}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:backgroundSplit
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#closeItemLayout}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:closeItemLayout
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#height}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:height
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#subtitleTextStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:subtitleTextStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#titleTextStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:titleTextStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable ch.cheap_bit.fut:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ActivityChooserView_initialActivityCount ch.cheap_bit.fut:initialActivityCount}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#expandActivityOverflowButtonDrawable}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:expandActivityOverflowButtonDrawable
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#initialActivityCount}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:initialActivityCount
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout ch.cheap_bit.fut:buttonPanelSideLayout}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #AlertDialog_listItemLayout ch.cheap_bit.fut:listItemLayout}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #AlertDialog_listLayout ch.cheap_bit.fut:listLayout}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout ch.cheap_bit.fut:multiChoiceItemLayout}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout ch.cheap_bit.fut:singleChoiceItemLayout}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#buttonPanelSideLayout}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:buttonPanelSideLayout
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#listItemLayout}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:listItemLayout
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#listLayout}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:listLayout
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#multiChoiceItemLayout}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:multiChoiceItemLayout
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#singleChoiceItemLayout}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:singleChoiceItemLayout
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #AppBarLayout_elevation ch.cheap_bit.fut:elevation}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #AppBarLayout_expanded ch.cheap_bit.fut:expanded}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#elevation}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:elevation
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#expanded}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:expanded
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #AppBarLayout_LayoutParams_layout_scrollFlags ch.cheap_bit.fut:layout_scrollFlags}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #AppBarLayout_LayoutParams_layout_scrollInterpolator ch.cheap_bit.fut:layout_scrollInterpolator}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#layout_scrollFlags}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:layout_scrollFlags
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#layout_scrollInterpolator}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:layout_scrollInterpolator
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #AppCompatTextView_textAllCaps ch.cheap_bit.fut:textAllCaps}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#textAllCaps}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:textAllCaps
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ButtonBarLayout_allowStacking ch.cheap_bit.fut:allowStacking}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#allowStacking}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:allowStacking
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #CollapsingAppBarLayout_LayoutParams_layout_collapseMode ch.cheap_bit.fut:layout_collapseMode}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier ch.cheap_bit.fut:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#layout_collapseMode}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:layout_collapseMode
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#layout_collapseParallaxMultiplier}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:layout_collapseParallaxMultiplier
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity ch.cheap_bit.fut:collapsedTitleGravity}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance ch.cheap_bit.fut:collapsedTitleTextAppearance}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim ch.cheap_bit.fut:contentScrim}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity ch.cheap_bit.fut:expandedTitleGravity}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin ch.cheap_bit.fut:expandedTitleMargin}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom ch.cheap_bit.fut:expandedTitleMarginBottom}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd ch.cheap_bit.fut:expandedTitleMarginEnd}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart ch.cheap_bit.fut:expandedTitleMarginStart}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop ch.cheap_bit.fut:expandedTitleMarginTop}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance ch.cheap_bit.fut:expandedTitleTextAppearance}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim ch.cheap_bit.fut:statusBarScrim}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #CollapsingToolbarLayout_title ch.cheap_bit.fut:title}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled ch.cheap_bit.fut:titleEnabled}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId ch.cheap_bit.fut:toolbarId}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#collapsedTitleGravity}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:collapsedTitleGravity
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#collapsedTitleTextAppearance}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:collapsedTitleTextAppearance
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#contentScrim}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:contentScrim
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#expandedTitleGravity}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:expandedTitleGravity
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#expandedTitleMargin}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:expandedTitleMargin
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#expandedTitleMarginBottom}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:expandedTitleMarginBottom
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#expandedTitleMarginEnd}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:expandedTitleMarginEnd
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#expandedTitleMarginStart}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:expandedTitleMarginStart
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#expandedTitleMarginTop}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:expandedTitleMarginTop
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#expandedTitleTextAppearance}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:expandedTitleTextAppearance
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#statusBarScrim}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:statusBarScrim
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#title}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:title
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#titleEnabled}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:titleEnabled
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#toolbarId}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:toolbarId
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #CompoundButton_buttonTint ch.cheap_bit.fut:buttonTint}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #CompoundButton_buttonTintMode ch.cheap_bit.fut:buttonTintMode}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#buttonTint}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:buttonTint
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#buttonTintMode}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:buttonTintMode
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #CoordinatorLayout_keylines ch.cheap_bit.fut:keylines}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground ch.cheap_bit.fut:statusBarBackground}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#keylines}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:keylines
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#statusBarBackground}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:statusBarBackground
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_anchor ch.cheap_bit.fut:layout_anchor}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_anchorGravity ch.cheap_bit.fut:layout_anchorGravity}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_behavior ch.cheap_bit.fut:layout_behavior}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_keyline ch.cheap_bit.fut:layout_keyline}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#layout_anchor}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:layout_anchor
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#layout_anchorGravity}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:layout_anchorGravity
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#layout_behavior}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:layout_behavior
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#layout_keyline}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:layout_keyline
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength ch.cheap_bit.fut:arrowHeadLength}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength ch.cheap_bit.fut:arrowShaftLength}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #DrawerArrowToggle_barLength ch.cheap_bit.fut:barLength}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #DrawerArrowToggle_color ch.cheap_bit.fut:color}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #DrawerArrowToggle_drawableSize ch.cheap_bit.fut:drawableSize}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars ch.cheap_bit.fut:gapBetweenBars}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #DrawerArrowToggle_spinBars ch.cheap_bit.fut:spinBars}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #DrawerArrowToggle_thickness ch.cheap_bit.fut:thickness}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#arrowHeadLength}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:arrowHeadLength
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#arrowShaftLength}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:arrowShaftLength
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#barLength}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:barLength
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#color}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:color
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#drawableSize}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:drawableSize
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#gapBetweenBars}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:gapBetweenBars
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#spinBars}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:spinBars
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#thickness}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:thickness
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #FloatingActionButton_backgroundTint ch.cheap_bit.fut:backgroundTint}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode ch.cheap_bit.fut:backgroundTintMode}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #FloatingActionButton_borderWidth ch.cheap_bit.fut:borderWidth}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #FloatingActionButton_elevation ch.cheap_bit.fut:elevation}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #FloatingActionButton_fabSize ch.cheap_bit.fut:fabSize}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ ch.cheap_bit.fut:pressedTranslationZ}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #FloatingActionButton_rippleColor ch.cheap_bit.fut:rippleColor}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#backgroundTint}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:backgroundTint
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#backgroundTintMode}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:backgroundTintMode
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#borderWidth}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:borderWidth
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#elevation}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:elevation
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#fabSize}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:fabSize
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#pressedTranslationZ}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:pressedTranslationZ
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#rippleColor}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:rippleColor
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding ch.cheap_bit.fut:foregroundInsidePadding}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#foregroundInsidePadding}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:foregroundInsidePadding
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #LinearLayoutCompat_divider ch.cheap_bit.fut:divider}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding ch.cheap_bit.fut:dividerPadding}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild ch.cheap_bit.fut:measureWithLargestChild}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #LinearLayoutCompat_showDividers ch.cheap_bit.fut:showDividers}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#divider}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:divider
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#dividerPadding}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:dividerPadding
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#measureWithLargestChild}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:measureWithLargestChild
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#showDividers}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:showDividers
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #MenuItem_actionLayout ch.cheap_bit.fut:actionLayout}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #MenuItem_actionProviderClass ch.cheap_bit.fut:actionProviderClass}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #MenuItem_actionViewClass ch.cheap_bit.fut:actionViewClass}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #MenuItem_showAsAction ch.cheap_bit.fut:showAsAction}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionLayout}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionLayout
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionProviderClass}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionProviderClass
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionViewClass}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionViewClass
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#showAsAction}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:showAsAction
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #MenuView_preserveIconSpacing ch.cheap_bit.fut:preserveIconSpacing}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#preserveIconSpacing}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:preserveIconSpacing
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #NavigationView_elevation ch.cheap_bit.fut:elevation}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #NavigationView_headerLayout ch.cheap_bit.fut:headerLayout}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #NavigationView_itemBackground ch.cheap_bit.fut:itemBackground}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #NavigationView_itemIconTint ch.cheap_bit.fut:itemIconTint}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #NavigationView_itemTextAppearance ch.cheap_bit.fut:itemTextAppearance}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #NavigationView_itemTextColor ch.cheap_bit.fut:itemTextColor}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #NavigationView_menu ch.cheap_bit.fut:menu}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#elevation}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:elevation
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#headerLayout}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:headerLayout
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#itemBackground}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:itemBackground
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#itemIconTint}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:itemIconTint
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#itemTextAppearance}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:itemTextAppearance
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#itemTextColor}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:itemTextColor
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#menu}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:menu
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #PopupWindow_overlapAnchor ch.cheap_bit.fut:overlapAnchor}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#overlapAnchor}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:overlapAnchor
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor ch.cheap_bit.fut:state_above_anchor}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#state_above_anchor}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:state_above_anchor
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #RecyclerView_layoutManager ch.cheap_bit.fut:layoutManager}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #RecyclerView_reverseLayout ch.cheap_bit.fut:reverseLayout}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #RecyclerView_spanCount ch.cheap_bit.fut:spanCount}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #RecyclerView_stackFromEnd ch.cheap_bit.fut:stackFromEnd}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#layoutManager}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:layoutManager
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#reverseLayout}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:reverseLayout
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#spanCount}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:spanCount
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#stackFromEnd}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:stackFromEnd
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground ch.cheap_bit.fut:insetForeground}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#insetForeground}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:insetForeground
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ScrollingViewBehavior_Params_behavior_overlapTop ch.cheap_bit.fut:behavior_overlapTop}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#behavior_overlapTop}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:behavior_overlapTop
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #SearchView_closeIcon ch.cheap_bit.fut:closeIcon}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #SearchView_commitIcon ch.cheap_bit.fut:commitIcon}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #SearchView_defaultQueryHint ch.cheap_bit.fut:defaultQueryHint}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #SearchView_goIcon ch.cheap_bit.fut:goIcon}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #SearchView_iconifiedByDefault ch.cheap_bit.fut:iconifiedByDefault}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #SearchView_layout ch.cheap_bit.fut:layout}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #SearchView_queryBackground ch.cheap_bit.fut:queryBackground}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #SearchView_queryHint ch.cheap_bit.fut:queryHint}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #SearchView_searchHintIcon ch.cheap_bit.fut:searchHintIcon}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #SearchView_searchIcon ch.cheap_bit.fut:searchIcon}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #SearchView_submitBackground ch.cheap_bit.fut:submitBackground}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #SearchView_suggestionRowLayout ch.cheap_bit.fut:suggestionRowLayout}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #SearchView_voiceIcon ch.cheap_bit.fut:voiceIcon}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#closeIcon}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:closeIcon
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#commitIcon}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:commitIcon
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#defaultQueryHint}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:defaultQueryHint
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#goIcon}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:goIcon
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#iconifiedByDefault}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:iconifiedByDefault
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#layout}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:layout
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#queryBackground}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:queryBackground
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#queryHint}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:queryHint
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#searchHintIcon}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:searchHintIcon
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#searchIcon}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:searchIcon
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#submitBackground}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:submitBackground
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#suggestionRowLayout}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:suggestionRowLayout
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#voiceIcon}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:voiceIcon
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #SnackbarLayout_elevation ch.cheap_bit.fut:elevation}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth ch.cheap_bit.fut:maxActionInlineWidth}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#elevation}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:elevation
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#maxActionInlineWidth}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:maxActionInlineWidth
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Spinner_popupTheme ch.cheap_bit.fut:popupTheme}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#popupTheme}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:popupTheme
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #SwitchCompat_showText ch.cheap_bit.fut:showText}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #SwitchCompat_splitTrack ch.cheap_bit.fut:splitTrack}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #SwitchCompat_switchMinWidth ch.cheap_bit.fut:switchMinWidth}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #SwitchCompat_switchPadding ch.cheap_bit.fut:switchPadding}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #SwitchCompat_switchTextAppearance ch.cheap_bit.fut:switchTextAppearance}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #SwitchCompat_thumbTextPadding ch.cheap_bit.fut:thumbTextPadding}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #SwitchCompat_track ch.cheap_bit.fut:track}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#showText}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:showText
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#splitTrack}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:splitTrack
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#switchMinWidth}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:switchMinWidth
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#switchPadding}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:switchPadding
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#switchTextAppearance}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:switchTextAppearance
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#thumbTextPadding}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:thumbTextPadding
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#track}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:track
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #TabLayout_tabBackground ch.cheap_bit.fut:tabBackground}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #TabLayout_tabContentStart ch.cheap_bit.fut:tabContentStart}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #TabLayout_tabGravity ch.cheap_bit.fut:tabGravity}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #TabLayout_tabIndicatorColor ch.cheap_bit.fut:tabIndicatorColor}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #TabLayout_tabIndicatorHeight ch.cheap_bit.fut:tabIndicatorHeight}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #TabLayout_tabMaxWidth ch.cheap_bit.fut:tabMaxWidth}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #TabLayout_tabMinWidth ch.cheap_bit.fut:tabMinWidth}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #TabLayout_tabMode ch.cheap_bit.fut:tabMode}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #TabLayout_tabPadding ch.cheap_bit.fut:tabPadding}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #TabLayout_tabPaddingBottom ch.cheap_bit.fut:tabPaddingBottom}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #TabLayout_tabPaddingEnd ch.cheap_bit.fut:tabPaddingEnd}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #TabLayout_tabPaddingStart ch.cheap_bit.fut:tabPaddingStart}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #TabLayout_tabPaddingTop ch.cheap_bit.fut:tabPaddingTop}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #TabLayout_tabSelectedTextColor ch.cheap_bit.fut:tabSelectedTextColor}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #TabLayout_tabTextAppearance ch.cheap_bit.fut:tabTextAppearance}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #TabLayout_tabTextColor ch.cheap_bit.fut:tabTextColor}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#tabBackground}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:tabBackground
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#tabContentStart}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:tabContentStart
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#tabGravity}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:tabGravity
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#tabIndicatorColor}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:tabIndicatorColor
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#tabIndicatorHeight}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:tabIndicatorHeight
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#tabMaxWidth}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:tabMaxWidth
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#tabMinWidth}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:tabMinWidth
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#tabMode}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:tabMode
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#tabPadding}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:tabPadding
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#tabPaddingBottom}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:tabPaddingBottom
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#tabPaddingEnd}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:tabPaddingEnd
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#tabPaddingStart}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:tabPaddingStart
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#tabPaddingTop}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:tabPaddingTop
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#tabSelectedTextColor}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:tabSelectedTextColor
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#tabTextAppearance}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:tabTextAppearance
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#tabTextColor}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:tabTextColor
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #TextAppearance_textAllCaps ch.cheap_bit.fut:textAllCaps}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#textAllCaps}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:textAllCaps
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #TextInputLayout_counterEnabled ch.cheap_bit.fut:counterEnabled}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #TextInputLayout_counterMaxLength ch.cheap_bit.fut:counterMaxLength}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance ch.cheap_bit.fut:counterOverflowTextAppearance}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #TextInputLayout_counterTextAppearance ch.cheap_bit.fut:counterTextAppearance}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #TextInputLayout_errorEnabled ch.cheap_bit.fut:errorEnabled}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #TextInputLayout_errorTextAppearance ch.cheap_bit.fut:errorTextAppearance}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled ch.cheap_bit.fut:hintAnimationEnabled}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #TextInputLayout_hintTextAppearance ch.cheap_bit.fut:hintTextAppearance}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#counterEnabled}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:counterEnabled
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#counterMaxLength}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:counterMaxLength
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#counterOverflowTextAppearance}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:counterOverflowTextAppearance
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#counterTextAppearance}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:counterTextAppearance
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#errorEnabled}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:errorEnabled
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#errorTextAppearance}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:errorTextAppearance
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#hintAnimationEnabled}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:hintAnimationEnabled
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#hintTextAppearance}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:hintTextAppearance
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionBarDivider ch.cheap_bit.fut:actionBarDivider}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionBarItemBackground ch.cheap_bit.fut:actionBarItemBackground}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionBarPopupTheme ch.cheap_bit.fut:actionBarPopupTheme}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionBarSize ch.cheap_bit.fut:actionBarSize}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionBarSplitStyle ch.cheap_bit.fut:actionBarSplitStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionBarStyle ch.cheap_bit.fut:actionBarStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionBarTabBarStyle ch.cheap_bit.fut:actionBarTabBarStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionBarTabStyle ch.cheap_bit.fut:actionBarTabStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionBarTabTextStyle ch.cheap_bit.fut:actionBarTabTextStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionBarTheme ch.cheap_bit.fut:actionBarTheme}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionBarWidgetTheme ch.cheap_bit.fut:actionBarWidgetTheme}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionButtonStyle ch.cheap_bit.fut:actionButtonStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionDropDownStyle ch.cheap_bit.fut:actionDropDownStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionMenuTextAppearance ch.cheap_bit.fut:actionMenuTextAppearance}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionMenuTextColor ch.cheap_bit.fut:actionMenuTextColor}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionModeBackground ch.cheap_bit.fut:actionModeBackground}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle ch.cheap_bit.fut:actionModeCloseButtonStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionModeCloseDrawable ch.cheap_bit.fut:actionModeCloseDrawable}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionModeCopyDrawable ch.cheap_bit.fut:actionModeCopyDrawable}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionModeCutDrawable ch.cheap_bit.fut:actionModeCutDrawable}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionModeFindDrawable ch.cheap_bit.fut:actionModeFindDrawable}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionModePasteDrawable ch.cheap_bit.fut:actionModePasteDrawable}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionModePopupWindowStyle ch.cheap_bit.fut:actionModePopupWindowStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable ch.cheap_bit.fut:actionModeSelectAllDrawable}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionModeShareDrawable ch.cheap_bit.fut:actionModeShareDrawable}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionModeSplitBackground ch.cheap_bit.fut:actionModeSplitBackground}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionModeStyle ch.cheap_bit.fut:actionModeStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable ch.cheap_bit.fut:actionModeWebSearchDrawable}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionOverflowButtonStyle ch.cheap_bit.fut:actionOverflowButtonStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_actionOverflowMenuStyle ch.cheap_bit.fut:actionOverflowMenuStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_activityChooserViewStyle ch.cheap_bit.fut:activityChooserViewStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle ch.cheap_bit.fut:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_alertDialogCenterButtons ch.cheap_bit.fut:alertDialogCenterButtons}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_alertDialogStyle ch.cheap_bit.fut:alertDialogStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_alertDialogTheme ch.cheap_bit.fut:alertDialogTheme}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle ch.cheap_bit.fut:autoCompleteTextViewStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_borderlessButtonStyle ch.cheap_bit.fut:borderlessButtonStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_buttonBarButtonStyle ch.cheap_bit.fut:buttonBarButtonStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle ch.cheap_bit.fut:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle ch.cheap_bit.fut:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle ch.cheap_bit.fut:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_buttonBarStyle ch.cheap_bit.fut:buttonBarStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_buttonStyle ch.cheap_bit.fut:buttonStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_buttonStyleSmall ch.cheap_bit.fut:buttonStyleSmall}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_checkboxStyle ch.cheap_bit.fut:checkboxStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_checkedTextViewStyle ch.cheap_bit.fut:checkedTextViewStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_colorAccent ch.cheap_bit.fut:colorAccent}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_colorButtonNormal ch.cheap_bit.fut:colorButtonNormal}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_colorControlActivated ch.cheap_bit.fut:colorControlActivated}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_colorControlHighlight ch.cheap_bit.fut:colorControlHighlight}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_colorControlNormal ch.cheap_bit.fut:colorControlNormal}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_colorPrimary ch.cheap_bit.fut:colorPrimary}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_colorPrimaryDark ch.cheap_bit.fut:colorPrimaryDark}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_colorSwitchThumbNormal ch.cheap_bit.fut:colorSwitchThumbNormal}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_controlBackground ch.cheap_bit.fut:controlBackground}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_dialogPreferredPadding ch.cheap_bit.fut:dialogPreferredPadding}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_dialogTheme ch.cheap_bit.fut:dialogTheme}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_dividerHorizontal ch.cheap_bit.fut:dividerHorizontal}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_dividerVertical ch.cheap_bit.fut:dividerVertical}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_dropDownListViewStyle ch.cheap_bit.fut:dropDownListViewStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight ch.cheap_bit.fut:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_editTextBackground ch.cheap_bit.fut:editTextBackground}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_editTextColor ch.cheap_bit.fut:editTextColor}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_editTextStyle ch.cheap_bit.fut:editTextStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_homeAsUpIndicator ch.cheap_bit.fut:homeAsUpIndicator}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_imageButtonStyle ch.cheap_bit.fut:imageButtonStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator ch.cheap_bit.fut:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_listDividerAlertDialog ch.cheap_bit.fut:listDividerAlertDialog}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_listPopupWindowStyle ch.cheap_bit.fut:listPopupWindowStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_listPreferredItemHeight ch.cheap_bit.fut:listPreferredItemHeight}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge ch.cheap_bit.fut:listPreferredItemHeightLarge}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall ch.cheap_bit.fut:listPreferredItemHeightSmall}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft ch.cheap_bit.fut:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight ch.cheap_bit.fut:listPreferredItemPaddingRight}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_panelBackground ch.cheap_bit.fut:panelBackground}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_panelMenuListTheme ch.cheap_bit.fut:panelMenuListTheme}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_panelMenuListWidth ch.cheap_bit.fut:panelMenuListWidth}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_popupMenuStyle ch.cheap_bit.fut:popupMenuStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_popupWindowStyle ch.cheap_bit.fut:popupWindowStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_radioButtonStyle ch.cheap_bit.fut:radioButtonStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_ratingBarStyle ch.cheap_bit.fut:ratingBarStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_searchViewStyle ch.cheap_bit.fut:searchViewStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_seekBarStyle ch.cheap_bit.fut:seekBarStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_selectableItemBackground ch.cheap_bit.fut:selectableItemBackground}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless ch.cheap_bit.fut:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle ch.cheap_bit.fut:spinnerDropDownItemStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_spinnerStyle ch.cheap_bit.fut:spinnerStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_switchStyle ch.cheap_bit.fut:switchStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu ch.cheap_bit.fut:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_textAppearanceListItem ch.cheap_bit.fut:textAppearanceListItem}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_textAppearanceListItemSmall ch.cheap_bit.fut:textAppearanceListItemSmall}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle ch.cheap_bit.fut:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle ch.cheap_bit.fut:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu ch.cheap_bit.fut:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_textColorAlertDialogListItem ch.cheap_bit.fut:textColorAlertDialogListItem}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_textColorSearchUrl ch.cheap_bit.fut:textColorSearchUrl}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle ch.cheap_bit.fut:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_toolbarStyle ch.cheap_bit.fut:toolbarStyle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_windowActionBar ch.cheap_bit.fut:windowActionBar}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_windowActionBarOverlay ch.cheap_bit.fut:windowActionBarOverlay}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_windowActionModeOverlay ch.cheap_bit.fut:windowActionModeOverlay}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_windowFixedHeightMajor ch.cheap_bit.fut:windowFixedHeightMajor}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_windowFixedHeightMinor ch.cheap_bit.fut:windowFixedHeightMinor}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_windowFixedWidthMajor ch.cheap_bit.fut:windowFixedWidthMajor}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_windowFixedWidthMinor ch.cheap_bit.fut:windowFixedWidthMinor}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_windowMinWidthMajor ch.cheap_bit.fut:windowMinWidthMajor}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_windowMinWidthMinor ch.cheap_bit.fut:windowMinWidthMinor}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Theme_windowNoTitle ch.cheap_bit.fut:windowNoTitle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionBarDivider}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionBarDivider
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionBarItemBackground}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionBarItemBackground
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionBarPopupTheme}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionBarPopupTheme
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionBarSize}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionBarSize
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionBarSplitStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionBarSplitStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionBarStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionBarStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionBarTabBarStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionBarTabBarStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionBarTabStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionBarTabStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionBarTabTextStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionBarTabTextStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionBarTheme}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionBarTheme
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionBarWidgetTheme}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionBarWidgetTheme
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionButtonStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionButtonStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionDropDownStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionDropDownStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionMenuTextAppearance}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionMenuTextAppearance
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionMenuTextColor}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionMenuTextColor
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionModeBackground}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionModeBackground
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionModeCloseButtonStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionModeCloseButtonStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionModeCloseDrawable}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionModeCloseDrawable
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionModeCopyDrawable}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionModeCopyDrawable
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionModeCutDrawable}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionModeCutDrawable
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionModeFindDrawable}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionModeFindDrawable
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionModePasteDrawable}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionModePasteDrawable
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionModePopupWindowStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionModePopupWindowStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionModeSelectAllDrawable}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionModeSelectAllDrawable
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionModeShareDrawable}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionModeShareDrawable
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionModeSplitBackground}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionModeSplitBackground
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionModeStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionModeStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionModeWebSearchDrawable}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionModeWebSearchDrawable
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionOverflowButtonStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionOverflowButtonStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#actionOverflowMenuStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:actionOverflowMenuStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#activityChooserViewStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:activityChooserViewStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#alertDialogButtonGroupStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:alertDialogButtonGroupStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#alertDialogCenterButtons}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:alertDialogCenterButtons
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#alertDialogStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:alertDialogStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#alertDialogTheme}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:alertDialogTheme
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#autoCompleteTextViewStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:autoCompleteTextViewStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#borderlessButtonStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:borderlessButtonStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#buttonBarButtonStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:buttonBarButtonStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#buttonBarNegativeButtonStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:buttonBarNegativeButtonStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#buttonBarNeutralButtonStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:buttonBarNeutralButtonStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#buttonBarPositiveButtonStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:buttonBarPositiveButtonStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#buttonBarStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:buttonBarStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#buttonStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:buttonStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#buttonStyleSmall}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:buttonStyleSmall
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#checkboxStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:checkboxStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#checkedTextViewStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:checkedTextViewStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#colorAccent}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:colorAccent
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#colorButtonNormal}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:colorButtonNormal
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#colorControlActivated}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:colorControlActivated
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#colorControlHighlight}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:colorControlHighlight
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#colorControlNormal}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:colorControlNormal
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#colorPrimary}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:colorPrimary
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#colorPrimaryDark}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:colorPrimaryDark
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#colorSwitchThumbNormal}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:colorSwitchThumbNormal
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#controlBackground}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:controlBackground
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#dialogPreferredPadding}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:dialogPreferredPadding
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#dialogTheme}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:dialogTheme
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#dividerHorizontal}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:dividerHorizontal
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#dividerVertical}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:dividerVertical
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#dropDownListViewStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:dropDownListViewStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#dropdownListPreferredItemHeight}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:dropdownListPreferredItemHeight
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#editTextBackground}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:editTextBackground
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#editTextColor}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:editTextColor
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#editTextStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:editTextStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#homeAsUpIndicator}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:homeAsUpIndicator
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#imageButtonStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:imageButtonStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#listChoiceBackgroundIndicator}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:listChoiceBackgroundIndicator
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#listDividerAlertDialog}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:listDividerAlertDialog
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#listPopupWindowStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:listPopupWindowStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#listPreferredItemHeight}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:listPreferredItemHeight
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#listPreferredItemHeightLarge}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:listPreferredItemHeightLarge
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#listPreferredItemHeightSmall}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:listPreferredItemHeightSmall
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#listPreferredItemPaddingLeft}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:listPreferredItemPaddingLeft
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#listPreferredItemPaddingRight}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:listPreferredItemPaddingRight
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#panelBackground}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:panelBackground
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#panelMenuListTheme}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:panelMenuListTheme
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#panelMenuListWidth}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:panelMenuListWidth
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#popupMenuStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:popupMenuStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#popupWindowStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:popupWindowStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#radioButtonStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:radioButtonStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#ratingBarStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:ratingBarStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#searchViewStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:searchViewStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#seekBarStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:seekBarStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#selectableItemBackground}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:selectableItemBackground
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#selectableItemBackgroundBorderless}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:selectableItemBackgroundBorderless
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#spinnerDropDownItemStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:spinnerDropDownItemStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#spinnerStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:spinnerStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#switchStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:switchStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#textAppearanceLargePopupMenu}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:textAppearanceLargePopupMenu
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#textAppearanceListItem}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:textAppearanceListItem
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#textAppearanceListItemSmall}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:textAppearanceListItemSmall
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#textAppearanceSearchResultSubtitle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:textAppearanceSearchResultSubtitle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#textAppearanceSearchResultTitle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:textAppearanceSearchResultTitle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#textAppearanceSmallPopupMenu}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:textAppearanceSmallPopupMenu
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#textColorAlertDialogListItem}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:textColorAlertDialogListItem
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#textColorSearchUrl}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:textColorSearchUrl
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#toolbarNavigationButtonStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:toolbarNavigationButtonStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#toolbarStyle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:toolbarStyle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#windowActionBar}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:windowActionBar
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#windowActionBarOverlay}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:windowActionBarOverlay
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#windowActionModeOverlay}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:windowActionModeOverlay
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#windowFixedHeightMajor}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:windowFixedHeightMajor
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#windowFixedHeightMinor}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:windowFixedHeightMinor
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#windowFixedWidthMajor}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:windowFixedWidthMajor
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#windowFixedWidthMinor}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:windowFixedWidthMinor
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#windowMinWidthMajor}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:windowMinWidthMajor
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#windowMinWidthMinor}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:windowMinWidthMinor
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#windowNoTitle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:windowNoTitle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Toolbar_collapseContentDescription ch.cheap_bit.fut:collapseContentDescription}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Toolbar_collapseIcon ch.cheap_bit.fut:collapseIcon}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Toolbar_contentInsetEnd ch.cheap_bit.fut:contentInsetEnd}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Toolbar_contentInsetLeft ch.cheap_bit.fut:contentInsetLeft}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Toolbar_contentInsetRight ch.cheap_bit.fut:contentInsetRight}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Toolbar_contentInsetStart ch.cheap_bit.fut:contentInsetStart}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Toolbar_logo ch.cheap_bit.fut:logo}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Toolbar_logoDescription ch.cheap_bit.fut:logoDescription}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Toolbar_maxButtonHeight ch.cheap_bit.fut:maxButtonHeight}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Toolbar_navigationContentDescription ch.cheap_bit.fut:navigationContentDescription}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Toolbar_navigationIcon ch.cheap_bit.fut:navigationIcon}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Toolbar_popupTheme ch.cheap_bit.fut:popupTheme}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Toolbar_subtitle ch.cheap_bit.fut:subtitle}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Toolbar_subtitleTextAppearance ch.cheap_bit.fut:subtitleTextAppearance}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Toolbar_subtitleTextColor ch.cheap_bit.fut:subtitleTextColor}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Toolbar_title ch.cheap_bit.fut:title}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Toolbar_titleMarginBottom ch.cheap_bit.fut:titleMarginBottom}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Toolbar_titleMarginEnd ch.cheap_bit.fut:titleMarginEnd}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Toolbar_titleMarginStart ch.cheap_bit.fut:titleMarginStart}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Toolbar_titleMarginTop ch.cheap_bit.fut:titleMarginTop}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Toolbar_titleMargins ch.cheap_bit.fut:titleMargins}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Toolbar_titleTextAppearance ch.cheap_bit.fut:titleTextAppearance}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #Toolbar_titleTextColor ch.cheap_bit.fut:titleTextColor}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#collapseContentDescription}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:collapseContentDescription
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#collapseIcon}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:collapseIcon
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#contentInsetEnd}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:contentInsetEnd
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#contentInsetLeft}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:contentInsetLeft
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#contentInsetRight}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:contentInsetRight
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#contentInsetStart}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:contentInsetStart
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#logo}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:logo
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#logoDescription}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:logoDescription
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#maxButtonHeight}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:maxButtonHeight
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#navigationContentDescription}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:navigationContentDescription
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#navigationIcon}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:navigationIcon
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#popupTheme}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:popupTheme
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#subtitle}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:subtitle
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#subtitleTextAppearance}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:subtitleTextAppearance
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#subtitleTextColor}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:subtitleTextColor
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#title}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:title
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#titleMarginBottom}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:titleMarginBottom
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#titleMarginEnd}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:titleMarginEnd
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#titleMarginStart}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:titleMarginStart
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#titleMarginTop}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:titleMarginTop
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#titleMargins}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:titleMargins
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#titleTextAppearance}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:titleTextAppearance
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#titleTextColor}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:titleTextColor
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #View_paddingEnd ch.cheap_bit.fut:paddingEnd}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #View_paddingStart ch.cheap_bit.fut:paddingStart}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #View_theme ch.cheap_bit.fut:theme}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#paddingEnd}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:paddingEnd
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#paddingStart}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:paddingStart
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#theme}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:theme
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint ch.cheap_bit.fut:backgroundTint}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode ch.cheap_bit.fut:backgroundTintMode}</code></td><td></td></tr>
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#backgroundTint}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:backgroundTint
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          <p>This symbol is the offset where the {@link ch.cheap_bit.fut.R.attr#backgroundTintMode}
+./app/build/generated/source/r/debug/ch/cheap_bit/fut/R.java:          @attr name ch.cheap_bit.fut:backgroundTintMode
+./app/build/generated/source/buildConfig/debug/ch/cheap_bit/fut/BuildConfig.java:package ch.cheap_bit.fut;
+./app/build/generated/source/buildConfig/debug/ch/cheap_bit/fut/BuildConfig.java:  public static final String APPLICATION_ID = "ch.cheap_bit.fut";
+./app/build/generated/source/buildConfig/androidTest/debug/ch/cheap_bit/fut/test/BuildConfig.java:package ch.cheap_bit.fut.test;
+./app/build/generated/source/buildConfig/androidTest/debug/ch/cheap_bit/fut/test/BuildConfig.java:  public static final String APPLICATION_ID = "ch.cheap_bit.fut.test";
+./app/build/intermediates/manifests/full/debug/AndroidManifest.xml:    package="ch.cheap_bit.fut"
+./app/build/intermediates/manifests/full/debug/AndroidManifest.xml:            android:name="ch.cheap_bit.fut.Navigation"
+./app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw/values-sw.xml:    <string msgid="7723749260725869598" name="abc_search_hint">"Tafuta…"</string>
+./app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw/values-sw.xml:    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Hoja ya utafutaji"</string>
+./app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw/values-sw.xml:    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Tafuta"</string>
+./app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw/values-sw.xml:    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Tafuta kwa kutamka"</string>
+./app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml:    package="ch.cheap_bit.fut.test">
+./app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml:                     android:targetPackage="ch.cheap_bit.fut"
+./app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml:                     android:label="Tests for ch.cheap_bit.fut"/>
+./app/build/intermediates/res/merged/debug/layout/app_bar_navigation.xml:    tools:context="ch.cheap_bit.fut.Navigation">
+./app/build/intermediates/res/merged/debug/layout/content_navigation.xml:    tools:context="ch.cheap_bit.fut.Navigation"
+./app/build/intermediates/res/merged/debug/values-sw/values-sw.xml:    <string msgid="7723749260725869598" name="abc_search_hint">"Tafuta…"</string>
+./app/build/intermediates/res/merged/debug/values-sw/values-sw.xml:    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Hoja ya utafutaji"</string>
+./app/build/intermediates/res/merged/debug/values-sw/values-sw.xml:    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Tafuta"</string>
+./app/build/intermediates/res/merged/debug/values-sw/values-sw.xml:    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Tafuta kwa kutamka"</string>
+./app/src/androidTest/java/ch/cheap_bit/fut/ApplicationTest.java:package ch.cheap_bit.fut;
+./app/src/main/AndroidManifest.xml:    package="ch.cheap_bit.fut">
+./app/src/main/res/layout/app_bar_navigation.xml:    tools:context="ch.cheap_bit.fut.Navigation">
+./app/src/main/res/layout/content_navigation.xml:    tools:context="ch.cheap_bit.fut.Navigation"
+./app/src/main/java/ch/cheap_bit/fut/Navigation.java:package ch.cheap_bit.fut;
+./app/src/test/java/ch/cheap_bit/fut/ExampleUnitTest.java:package ch.cheap_bit.fut;
+./.idea/modules.xml:      <module fileurl="file://$PROJECT_DIR$/fut.iml" filepath="$PROJECT_DIR$/fut.iml" />
+./.idea/workspace.xml:        <entry file="file://$PROJECT_DIR$/app/src/main/java/ch/cheap_bit/fut/Navigation.java">
+./.idea/workspace.xml:        <option value="$PROJECT_DIR$/app/src/main/java/ch/cheap_bit/fut/Navigation.java" />
+./.idea/workspace.xml:              <option name="myItemId" value="fut" />
+./.idea/workspace.xml:    <entry file="file://$PROJECT_DIR$/app/src/main/java/ch/cheap_bit/fut/Navigation.java">
+./.idea/workspace.xml:    <entry file="file://$PROJECT_DIR$/app/src/main/java/ch/cheap_bit/fut/Navigation.java">
+./.idea/.name:fut
