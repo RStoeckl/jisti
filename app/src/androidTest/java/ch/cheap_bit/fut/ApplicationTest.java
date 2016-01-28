@@ -1,4 +1,4 @@
-package ch.cheap_bit.fut;
+package ch.cheap_bit.eutph;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
