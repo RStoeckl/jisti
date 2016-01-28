@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Fut.iml" filepath="$PROJECT_DIR$/Fut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eutph.iml" filepath="$PROJECT_DIR$/Eutph.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/fut.iml" filepath="$PROJECT_DIR$/fut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eutph.iml" filepath="$PROJECT_DIR$/eutph.iml" />
     </modules>
   </component>
 </project>

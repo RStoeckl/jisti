@@ -32,7 +32,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Navigation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/ch/cheap_bit/fut/Navigation.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/ch/cheap_bit/eutph/Navigation.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
@@ -1711,7 +1711,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/src/main/res/layout/app_bar_navigation.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/ch/cheap_bit/fut/Navigation.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/ch/cheap_bit/eutph/Navigation.java" />
         <option value="$PROJECT_DIR$/local.properties" />
       </list>
     </option>
@@ -1755,7 +1755,7 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="fut" />
+              <option name="myItemId" value="eutph" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1994,7 +1994,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/ch/cheap_bit/fut/Navigation.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ch/cheap_bit/eutph/Navigation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
@@ -2093,7 +2093,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/ch/cheap_bit/fut/Navigation.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ch/cheap_bit/eutph/Navigation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
